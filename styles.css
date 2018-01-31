@@ -52,3 +52,17 @@ a{
 p{
     margin:20px;
 }
+
+.blog-post{
+    margin: 10px;
+    background-color: #ffffff;
+    border: 2px solid darkgray;
+    border-radius: 4px;
+    padding:10px;
+}
+
+img{
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
